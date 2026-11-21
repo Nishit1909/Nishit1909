@@ -12,7 +12,7 @@
 - 🎓 B.Tech CSE (AI/ML) @ **NIE Mysore** · 2028 · CGPA **9.51**
 - 💼 Ex-Software Engineering Intern @ **VRIZE**: built a Gemini-powered B2B call-intelligence pipeline and a RAG copilot over 78 SEC filings
 - 🤖 I build **RAG systems, LangGraph multi-agent workflows** and evaluate them properly, on top of **FastAPI / Spring Boot** backends
-- 🏆 **SIH 2026** internal finalist  · State-level hackathon top 50 · ALPHA Innovation Showcase 2026
+- 🏆 **SIH 2026** internal finalist (top 45) · State-level hackathon top 50 · ALPHA Innovation Showcase 2026 presenter
 - 🧩 Solving **Hard** LeetCode problems in Java
 
 ---
@@ -56,7 +56,7 @@
 | 📑 **The Analyst Copilot** *(VRIZE)* | RAG chatbot over 78 SEC 10-K/10-Q filings (32 companies, 9 sectors), evaluated on 136 benchmark questions with cited page evidence | PostgreSQL + pgvector · sentence-transformers · Azure OpenAI |
 | 📞 **Call Intelligence Pipeline** *(VRIZE)* | 5-stage pipeline: storage → validation → transcription → intent classification → persistence, with in-browser recording | FastAPI · Gemini 2.5 Flash · PyAV · Alembic |
 | ♻️ **[Waste Prediction System](https://github.com/Nishit1909/Waste_management_project)** | Multi-output Random Forest predicting festival waste composition across 65 Mysuru wards, with compost/biogas yield estimates via 8+ endpoints | FastAPI · scikit-learn · PostgreSQL |
-| 🛒 **[E-Commerce Backend](https://github.com/Nishit1909/ecommerce-backend)** | 3-layer Spring Boot API with 10+ endpoints, Java Record DTOs and LAZY-fetched JPA relations to avoid N+1 | Spring Boot · JPA · PostgreSQL |
+| 👁️ **[TriNetra](https://github.com/Nishit1909/TriNetra)** *(SIH 2026 finalist)* | Criminal network intelligence platform for investigators: finds key players, maps connections, ranks likely hidden links with a learned model, and ties every lead back to source records | FastAPI · React · PostgreSQL · Neo4j · Cloud Run |
 
 ---
 
