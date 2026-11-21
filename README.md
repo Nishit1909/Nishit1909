@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 B.Tech CSE (AI/ML) @ **NIE Mysore** · 2028 · CGPA **9.51**
-- 💼 Software Engineering Intern @ **VRIZE**: built a Gemini-powered B2B call-intelligence pipeline and a RAG copilot over 78 SEC filings
+- 💼 Ex-Software Engineering Intern @ **VRIZE**: built a Gemini-powered B2B call-intelligence pipeline and a RAG copilot over 78 SEC filings
 - 🤖 I build **RAG systems, LangGraph multi-agent workflows** and evaluate them properly, on top of **FastAPI / Spring Boot** backends
 - 🏆 **SIH 2026** internal finalist  · State-level hackathon top 50 · ALPHA Innovation Showcase 2026
 - 🧩 Solving **Hard** LeetCode problems in Java
